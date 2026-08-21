@@ -13,10 +13,10 @@ Email Me 👉 ✉️ **chaitanyaksingh2005.com** For Collaboration/Project or An
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chaitanya7270) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-kumar-singh-59401a38a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyaksingh2005@gmail.com) 
 
 <!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chaitanyaksingh2005/chaitanyaksingh2005/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
+</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
